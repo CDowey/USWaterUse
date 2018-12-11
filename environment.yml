@@ -1,0 +1,13 @@
+name: wateruse-environment
+channels:
+  - conda-forge
+dependencies:
+  - sciencebasepy
+  - pandas
+  - requests
+  - io
+  - zipfile
+  - shapefile
+  - shapely
+  - geopandas
+  - matplotlib
