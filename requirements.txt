@@ -1,5 +1,0 @@
-sciencebasepy
-pandas
-geopandas
-os
-matplotlib
